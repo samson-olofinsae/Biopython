@@ -86,7 +86,6 @@ class TextDownloader:
 
         print("Papers saved to SUFU_literature.txt")
 
-
 ########## Demonstrating inheritance 
 
 # Define the child class (ChildClass) that inherits from the parent class (TextDownloader).
