@@ -17,7 +17,6 @@ from Bio import Entrez
 # Importing the xml.etree.ElementTree module for parsing XML data from PubMed
 import xml.etree.ElementTree as ET
 
-
 # Base class for downloading and extracting paper info
 class TextDownloader:
 
