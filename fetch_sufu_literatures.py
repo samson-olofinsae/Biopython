@@ -111,7 +111,6 @@ inherited_class = ChildClass("youremail@youremail.com") # provide your email
 # This method allows the child class object to search for papers related to the term "SUFU".
 inherited_class.get_papers("SUFU")  # This will fetch papers related to the gene "SUFU"
 
-
 # Call the method unique to the child class ('Print') that was defined in the child class (ChildClass)
 # This method will print a message specific to the child class, showcasing behavior unique to it.
 inherited_class.Print()  # ← This executes the method specific for the child - not inherited - de novo!
