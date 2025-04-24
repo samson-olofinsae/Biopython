@@ -100,7 +100,6 @@ class ChildClass(TextDownloader):
         # This demonstrates behavior that is added in the child class, not inherited from the parent class.
         print("This line is printed from a method unique to the child class! De novo!")
 
-
 ####### Demonstrating Object Instantiation and Method Calling
 
 
