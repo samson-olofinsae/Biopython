@@ -88,6 +88,7 @@ class TextDownloader:
 
 ########### Demonstrating inheritance 
 
+
 # Define the child class (ChildClass) that inherits from the parent class (TextDownloader).
 # The child class inherits all functionality from the parent class and can also introduce its own unique methods.
 # Inherited functionality include the __init__ and get_papers methods 
