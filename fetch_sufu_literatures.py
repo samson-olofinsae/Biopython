@@ -1,4 +1,4 @@
-################  SCRIPT
+###############  SCRIPT
 ###### This script extracts a lis of papers from the PubMed database using the search Term SUFU
 # SUFU is a gene that is part of a cell signaling pathway involved in the formation of tissues and organs, cell growth, and cell division during embryonic development.
 # Mutations (changes) in the SUFU gene may cause cells to grow and divide too quickly or in an uncontrolled way.
