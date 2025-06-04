@@ -100,7 +100,7 @@ class ChildClass(TextDownloader):
         # This demonstrates behavior that is added in the child class, not inherited from the parent class.
         print("This line is printed from a method unique to the child class! De novo!")
 
-####### Demonstrating Object Instantiation and Method Calling
+######## Demonstrating Object Instantiation and Method Calling
 
 # Create an instance of the child class, which inherits functionality from the parent class (TextDownloader)
 # The email provided will be passed to the parent class's __init__ method, setting up Entrez.email.
